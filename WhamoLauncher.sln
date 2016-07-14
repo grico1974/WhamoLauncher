@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhamoLauncher.Charts", "WhamoLauncher.Charts\WhamoLauncher.Charts.csproj", "{671AD88F-2BED-4A9E-843E-D432A0A1AF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhamoLauncher", "WhamoLauncher\WhamoLauncher.csproj", "{99E26BF3-8DF0-47FB-9242-465A42DC1EC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhamoLauncher.Resources", "WhamoLauncher.Resources\WhamoLauncher.Resources.csproj", "{34752BAF-56D4-4972-B98C-5049D800FD98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671AD88F-2BED-4A9E-843E-D432A0A1AF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671AD88F-2BED-4A9E-843E-D432A0A1AF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671AD88F-2BED-4A9E-843E-D432A0A1AF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671AD88F-2BED-4A9E-843E-D432A0A1AF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E26BF3-8DF0-47FB-9242-465A42DC1EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E26BF3-8DF0-47FB-9242-465A42DC1EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E26BF3-8DF0-47FB-9242-465A42DC1EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E26BF3-8DF0-47FB-9242-465A42DC1EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34752BAF-56D4-4972-B98C-5049D800FD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34752BAF-56D4-4972-B98C-5049D800FD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34752BAF-56D4-4972-B98C-5049D800FD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34752BAF-56D4-4972-B98C-5049D800FD98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
